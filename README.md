@@ -4,6 +4,7 @@ A software application built following structured Software Development Lifecycle
 
 ## Technologies Used
 Java
+JUnit (unit testing)
 
 ## Features
 - Full test suite validating inputs, handling exceptions, and ensuring reliable performance across multiple scenarios
@@ -20,8 +21,7 @@ Java
 - Pseudocode was written before implementation to establish a clear plan. User stories were reviewed carefully to ensure all requirements were met, with the end user's experience kept in mind at every step.
 
 ## Files
-- ContactService/ — Main application source code
-- test/ — Test cases and validation files
+- src/ - Main application source code and JUnit test cases
 
 ## How to Run
 1. Clone the repository
