@@ -3,8 +3,8 @@
 A software application built following structured Software Development Lifecycle (SDLC) practices including planning, testing, revising, and documentation. The primary purpose of this project was to design, implement, and test a contact management service based on specific client and user requirements. I have translated those requirements into reliable, secure, and well-documented code.
 
 ## Technologies Used
-Java
-JUnit (unit testing)
+- Java
+- JUnit (unit testing)
 
 ## Features
 - Full test suite validating inputs, handling exceptions, and ensuring reliable performance across multiple scenarios
