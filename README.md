@@ -21,7 +21,8 @@ A software application built following structured Software Development Lifecycle
 - Pseudocode was written before implementation to establish a clear plan. User stories were reviewed carefully to ensure all requirements were met, with the end user's experience kept in mind at every step.
 
 ## Files
-- src/ - Main application source code and JUnit test cases
+- src/main/ - Main application source code
+- src/test/ - JUnit test cases and validation files
 
 ## How to Run
 1. Clone the repository
