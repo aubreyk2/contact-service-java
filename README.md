@@ -19,11 +19,11 @@ Java
 - Pseudocode was written before implementation to establish a clear plan. User stories were reviewed carefully to ensure all requirements were met, with the end user's experience kept in mind at every step.
 
 ## Files
-ContactService/ — Main application source code
-test/ — Test cases and validation files
+- ContactService/ — Main application source code
+- test/ — Test cases and validation files
 
 ## How to Run
-Clone the repository
-Open in your preferred Java IDE (Eclipse, IntelliJ, etc.)
-Run the main application file
-Execute test files to validate functionality
+1. Clone the repository
+2. Open in your preferred Java IDE (Eclipse, IntelliJ, etc.)
+3. Run the main application file
+4. Execute test files to validate functionality
