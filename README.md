@@ -14,7 +14,8 @@ Java
 
 ## Security
 - Security was treated as a core requirement, not an afterthought. All user inputs are validated before processing, exceptions are caught and handled to avoid exposing internal application state, and sensitive contact information is protected from unintended exposure or modification.
-- Development Approach
+  
+## Development Approach
 - Development started by breaking the project into smaller, manageable components rather than tackling it all at once.
 - Pseudocode was written before implementation to establish a clear plan. User stories were reviewed carefully to ensure all requirements were met, with the end user's experience kept in mind at every step.
 
